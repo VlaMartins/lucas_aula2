@@ -1,0 +1,31 @@
+body{
+	background-color: #fff;
+	color: black;
+}
+
+header{
+	background-color: #1d2937;
+	color: whitesmoke;
+}
+#logo{
+	width: 10%;
+}
+
+header ul{
+	color: ;
+	display: inline-block;
+	vertical-align: top;
+}
+
+header li{
+	display: inline-block;
+	margin: 20px 40px 10px 20px;
+	font-size: 18px;
+	font-family: Verdana;
+}
+
+header li a{
+	text-decoration: none;
+	color: whitesmoke;
+	font-family: Arial;
+}
